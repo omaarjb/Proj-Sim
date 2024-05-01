@@ -1,0 +1,51 @@
+.input-section label {
+  font-weight: bold;
+}
+
+.input-group {
+  margin-bottom: 10px;
+}
+
+#output {
+  margin-top: 30px;
+}
+
+.table-container {
+  margin-top: 20px;
+}
+
+h1 {
+  margin-top: 50px;
+  padding: 20px;
+  background-color: rgb(84, 84, 144);
+  width: 100%;
+  color: white;
+}
+
+.btn {
+  background-color: rgb(84, 84, 144);
+  color: white;
+  outline: none;
+}
+
+.btn:hover {
+  background-color: rgb(109, 109, 122);
+  color: white;
+}
+
+.red-row {
+  background-color: #a3eaa7; /* Light red */
+}
+
+img {
+  width: 220px;
+  margin-top: 20px;
+}
+
+.title {
+  color: rgb(84, 84, 144);
+}
+
+body {
+  background-color: #e6e2e2;
+}
