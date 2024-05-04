@@ -34,11 +34,11 @@ h1 {
 }
 
 .red-row {
-  background-color: #a3eaa7; /* Light red */
+  background-color: #41c248; /* Light red */
 }
 
 img {
-  width: 220px;
+  width: 240px;
   margin-top: 20px;
 }
 
@@ -48,4 +48,15 @@ img {
 
 body {
   background-color: #e6e2e2;
+}
+.base-variable {
+  background-color: rgb(23, 66, 103);
+}
+
+.non-base-variable {
+  background-color: red;
+}
+
+.table {
+  color: white;
 }
